@@ -25,8 +25,7 @@ This card layout is inspired by modern SaaS and business analytics landing pages
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="design/desktop-design.jpg" alt="Stats Preview Desktop Design" width="48%">
-  <img src="design/mobile-design.jpg" alt="Stats Preview Mobile Design" width="48%">
+  <img src="screenshot1.png" alt="Stats Preview Desktop Design" width="48%">
 </p>
 
 ## 💡 What I Learned
